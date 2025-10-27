@@ -77,6 +77,16 @@ int main() {
 ```
 <img width="854" height="452" alt="image" src="https://github.com/user-attachments/assets/177843bf-b56c-49dd-a459-db5270dfc4e5" />
 
+<img width="1591" height="3582" alt="Програмування (1)" src="https://github.com/user-attachments/assets/d03035ad-8315-45c7-aca2-2e281853a26b" />
+<img width="832" height="909" alt="Програмування (2)" src="https://github.com/user-attachments/assets/be95ea25-d409-4205-840f-6715d327c2f1" />
+<img width="844" height="1345" alt="Програмування (3)" src="https://github.com/user-attachments/assets/9bb4d111-cc41-45df-8772-fa2440166000" />
+<img width="699" height="1249" alt="Програмування (4)" src="https://github.com/user-attachments/assets/5c19109b-80a7-452a-913a-bcaddb262a7b" />
+<img width="699" height="1249" alt="Програмування (5)" src="https://github.com/user-attachments/assets/f4cb083b-eff9-4260-b708-a5af51b052c1" />
+
+
+
+
+
 \\Висновок
 
 У ході виконання роботи було створено програму на мові C++, яка використовує функції для введення, виведення, обчислення та сортування елементів масиву.
